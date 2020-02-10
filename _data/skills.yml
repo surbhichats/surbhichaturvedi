@@ -1,0 +1,19 @@
+- layout: top-middle
+  name: Abilities
+  link: github.com/sproogen
+  github: sproogen/resume-theme
+  quote: >
+    My myriad of skills
+  description: | # this will include new lines to allow paragraphs
+   SOFT SKILLS:  
+
+   Project Management, Analytical Thinking, Research Oriented
+
+   TECHNICAL SKILLS: 
+
+    • Programming Languages: Python, R, SQL, PL/SQL, C, C++, Java, Hadoop/Hive, HTML, JavaScript
+    • Tools/Applications: G -Suite, Oracle, Microsoft Suite, Salesforce, Tableau, Verint, JIRA, Confluence, ServiceNow, Genesys
+    • Others: Agile, SCRUM, Software as a Solution (SaaS), Cloud as a Service (CaaS), Customer Relationship Management (CRM)
+
+
+    
