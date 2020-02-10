@@ -6,7 +6,7 @@ favicon: images/favicon.ico
 name: Surbhi Chaturvedi
 title: Graduate MIS Student '2020
 email: surbhichaturvedi@email.arizona.edu
-mobile: (520) 257-8809
+mobile: 520-257-8809
 website: surbhichats.github.io/surbhichaturvedi
 
 # Social links
@@ -25,9 +25,11 @@ linkedin_username: http://www.linkedin.com/in/surbhichaturvedi
 # about_title: About Me
 about_profile_image: images/SurbhiC.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Surbhi and I'm a Graduate student at the University of Arizona. I am pursuing Masters' Management Information System with a concentration in Business Intelligence and Analytics.
+  I'm a Graduate student at the Eller College of Management - University of Arizona. I am pursuing Masters' Management Information System with a concentration in Business Intelligence and Analytics.
 
-  I am a technology enthusiast, looking for role in Product Management.
+  I have over a decade of experience in Project Management working on Agile based projects. I want to apply my past experience and current coursework (sppecialization in Business Intelleigence and Analytics).
+
+  to create engaging customer experience.
 
 # Projects Section
 # projects_title: Academic Projects
@@ -41,10 +43,11 @@ about_content: | # this will include new lines to allow paragraphs
 # More Section
 # more_title: A Little More About Me
 more_content: | # this will include new lines to allow paragraphs
-  Alongside my interests in networks and software engineering some of my other interests and hobbies are:
+  Alongside my interests project and product management some of my other interests and hobbies are:
    - Reading
    - Volunteering
    - Watching Movies
+   - Tinkering with this website and learning new coding techniques
 
 # Footer
 footer_show_references: true
